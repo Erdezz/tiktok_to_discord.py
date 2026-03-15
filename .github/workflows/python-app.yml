@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Lancer le bot
-        run: python tiktok_to_discord.py
+       run: python debug.py
