@@ -3,7 +3,7 @@ import time
 from TikTokApi import TikTokApi
 
 # === CONFIG ===
-WEBHOOK_URL = "https://discord.com/api/webhooks/1482698173100064940/ctBjKrlOKTuIJCdmoNWxQuS9n70UmiytkzQhE0q724GD5SnLsbLh-zwisnMUtuRGoUMQ"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1482699572857016320/Wgm7ufX6cqlxiuXdbbG58yIaSKDB-0BVhnxBS5ZHdSRim0lcd19aSyFzPOATBSwv5l_Y"
 
 HASHTAGS = [
     "hacco",
